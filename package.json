@@ -4,9 +4,9 @@
     "express": "^4.17.3",
     "node-static": "^0.7.11"
   },
-  "name": "Luna-proxy",
+  "name": "Gate-way",
   "version": "1.0.0",
-  "description": "A proxy",
+  "description": "A gateway",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
